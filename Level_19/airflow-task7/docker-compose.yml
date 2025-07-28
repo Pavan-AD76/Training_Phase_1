@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  sleek-airflow:
+    image: task7-airflowtask7:latest
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./airflow:/opt/airflow
+    command: airflow standalone

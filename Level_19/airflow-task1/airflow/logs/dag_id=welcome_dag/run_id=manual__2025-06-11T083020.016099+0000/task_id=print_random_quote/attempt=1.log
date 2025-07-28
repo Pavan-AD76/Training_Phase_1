@@ -1,0 +1,4 @@
+{"timestamp":"2025-06-11T08:30:27.259943","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-11T08:30:27.260916","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/welcome-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-11T08:30:27.858757Z","level":"info","event":"Failed to fetch quote: HTTPSConnectionPool(host='api.quotable.io', port=443): Max retries exceeded with url: /random (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x770f5c559970>: Failed to resolve 'api.quotable.io' ([Errno -2] Name or service not known)\"))","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-11T08:30:27.859387","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
