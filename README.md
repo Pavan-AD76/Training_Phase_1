@@ -4,8 +4,8 @@
 
 ## 👩‍🎓 Training Progress Summary
 
-- **👤 Name:** Nithyasri R  
-- **🆔 Register Number:** 713322AD075  
+- **👤 Name:** Pavan R V  
+- **🆔 Register Number:** 713322AD076  
 
 ---
 
