@@ -40,6 +40,8 @@
 | Level 17     | ✅ None                  |
 | Level 18     | 🔸 Task\_7              |
 | Level 19     | 🔸 Task\_8              |
+| Level 20     | ✅ None                 |
+| Level 21     | ✅ None                 |
 | Level 22     | 🔸 Task\_5              |
 | Level 23     | 🔸 Task\_4, Task\_5     |
 
